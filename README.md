@@ -12,3 +12,4 @@ ddd
 >`#0969DA`
 >asd
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
+[COPX邀请链接](https://discord.gg/copx)
